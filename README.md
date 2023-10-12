@@ -7,9 +7,10 @@ https://my-json-server.typicode.com/
 
 How to use examples:  
 https://my-json-server.typicode.com/fteran/mock-json/posts/1  
+```json
 {
   "id": 1,
   "title": "hello"
 }  
-
+```
 https://my-json-server.typicode.com/fteran/mock-json/
